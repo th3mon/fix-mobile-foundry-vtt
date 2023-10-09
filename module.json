@@ -1,0 +1,25 @@
+{
+  "id": "fix-mobile-foundry-vtt",
+  "title": "Fix Experience Mobile",
+  "description": "Little temporary fixes",
+  "version": "0.0.1",
+  "url": "https://github.com/th3mon/fix-mobile-foundry-vtt",
+  "manifest": "https://github.com/th3mon/fix-mobile-foundry-vtt/releases/download/0.0.1/module.json",
+  "download": "https://github.com/th3mon/fix-mobile-foundry-vtt/releases/download/0.0.1/module.zip",
+  "esmodules": "fix-mobile-foundry-vtt.js",
+  "authors": [
+    {
+      "id": "7h3m0n",
+      "name": "7h3m0n",
+      "discord": "th3mon",
+      "email": "7h3m0n@gmail.com",
+      "url": "https://github.com/th3mon/"
+    }
+  ],
+  "styles": ["fix-mobile-foundry-vtt.css"],
+  "compatibility": {
+    "minimum": "10",
+    "verified": "11",
+    "maximum": "11"
+  }
+}
