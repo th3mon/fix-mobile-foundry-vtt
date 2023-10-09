@@ -2,10 +2,10 @@
   "id": "fix-mobile-foundry-vtt",
   "title": "Fix Experience Mobile",
   "description": "Little temporary fixes",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "url": "https://github.com/th3mon/fix-mobile-foundry-vtt",
-  "manifest": "https://github.com/th3mon/fix-mobile-foundry-vtt/releases/download/0.0.2/module.json",
-  "download": "https://github.com/th3mon/fix-mobile-foundry-vtt/releases/download/0.0.2/module.zip",
+  "manifest": "https://github.com/th3mon/fix-mobile-foundry-vtt/releases/download/0.0.3/module.json",
+  "download": "https://github.com/th3mon/fix-mobile-foundry-vtt/releases/download/0.0.3/module.zip",
   "esmodules": "fix-mobile-foundry-vtt.js",
   "authors": [
     {
